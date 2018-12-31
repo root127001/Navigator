@@ -1,0 +1,8 @@
+This is the first script i make.
+The script gives you information about special directories and navigates you to the directory you choose.
+This may be useless to you but I thought i'd make it anyways and improve my skills,maybe this could help new people into learning more about the directories.
+________________
+
+For this script to work you must use:
+
+root@Kali:~# source Navigator.sh
